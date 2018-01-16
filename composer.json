@@ -1,0 +1,19 @@
+{
+    "name": "yyq/minimum_alarm",
+    "description": "一个支持多种消息平台的告警组件",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "杨玉奇",
+            "email": "yangyuqi@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0",
+        "swiftmailer/swiftmailer": ">=6.0.0"
+    },
+
+    "autoload":{
+    }
+}
